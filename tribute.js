@@ -1,5 +1,0 @@
-
-
-
-const projectName = 'tribute-page';
-
